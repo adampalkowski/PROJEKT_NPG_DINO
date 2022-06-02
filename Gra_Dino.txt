@@ -1,0 +1,40 @@
+Gra będzie się opierać o widoku z boku na dino (2D) i poruszając sie razem z ruchem dinozaura.
+
+Priorytet powyższego elementu został ustalony na Wysoki przez Adam Pałkowski dnia 10.04.2022
+
+Gra powinna zawierać:
+
+-samoczynny ruch dino w prawo
+
+-funkcje umożliwiającą skok w góre
+
+przyciskiem odpowiadającym za skok będzie SPACJA
+
+-funkcja umożliwiająca kucanie(uchylenie się)
+
+funckja ta ma na celu możliwość uniknięcia latającej przeszkody poprzez kucnięcie (tak zwany slide !)
+
+-funkcje powodująca powstawanie przeszkód:
+
+funkcja ta ma w losowy sposób "wyrzucać" na prawo od dino kaktusy lub pterodaktyle o które 
+można się skuć
+
+-funkcje wyświetlająca wynik w prawym gornym rogu
+
+funkcja ta oblicza wynik w zaleznosci od przebiegniętego dystansu bez porażki
+
+-funkcje konczącą gre gdy uderzy się w przeszkode
+
+funkcja ta ma zostać wywołana w momęcie gdy dino uderzy w kaktusa lub pterodaktyla
+
+-funkcję powodującą wyświetlanie się interfesju:
+
+ładuje interfejs na ekran użytownika
+
+-funkcje zapisująca maksymalny wynik uzyskany w grze
+
+funckja ta do momentu wyłączenia gry bedzie przechowywała maksymalny wynik
+
+-funckja zmieniająca poziom trudności
+
+funkcja ta co pewną ilość punktów powinna zwiększać prędkość dino jak i przyznawanych punktów

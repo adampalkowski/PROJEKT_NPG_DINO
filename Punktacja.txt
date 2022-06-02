@@ -1,0 +1,28 @@
+Punkty będa zdobywane przez pokonanie odpowiedniego dystansu.*
+
+Priorytet powyższego elementu został ustalony na Wysoki przez Adama Pałowskiego dnia 07.05.2022.
+Priorytet powyższego elementu został ustalony na Średni przez Jakuba Pinasa dnia 20.05.2022
+
+
+punktacja graczy:
+
+
+
+-funkcja zliczającą punkty podczas trwania gry:
+funckja ta będzie zwiększać wartość wyniku dodając punkty i informować kiedy zwiększyć trudność danego poziomu
+
+
+-funkcja wyświetlającą wynik końcowy po rozgrywce:
+
+funkcja zapisze wynik uzyskane w danej grze i wyświetli go na ekranie końcowym
+
+-funkcja wyświetlającą wynik globalny
+
+funkcja ta porówna uzyskany wynik uzyskany w danej grze i porówna go z wynikami innych graczy,
+jeśli jest on większy zostane on uznany jako nowy maksymalny wynik
+
+
+-funkcja która wyświetli ranking najlepszych graczy danej sesji gry
+
+funckja wypisze nicki wraz z wynikami graczy i ustawi je w kolejności od największego do
+najmniejszego
