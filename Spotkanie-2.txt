@@ -1,0 +1,11 @@
+Spotkanie deweloperskie z dnia 28.05.2022
+
+Spotkanie rozpoczęto od podsumowania wykonanych zadań które były przydzielone dla nas na pierwszym spotkaniu. Wszyscy w większości wypełnili swoje zadania, a nasza gra miała już ekran ,,game over" oraz ustalone główne zasady gry (jeszcze w formie surowego kodu).
+Spotkanie z 28.05.2022 było nastawione bardziej w strone organizacji pracy nad samym kodem gry. Jako, że jest ona wieloelementowa ustolono podział prac nad poszczególnymi klasami kodu:
+Szymon Pająk - implementacja dźwięków i przeszkód
+Jakub Pinas - elementy tła
+Adam Pałkowski - refaktoryzacja otrzymanych odcinków kodu aby ze sobą współdziałały
+Mateusz Płatek - implementacja nowych grafik i obrazów
+Filip Pasternak - sprawdzenie poprawności kodu, testy jednostkowe, dokumentacja
+
+Deadline wykonania zadań został ustalony na 01.06.2022 godz. 21 - jest to jednocześnie termin następnego spotkania deweloperskiego.
