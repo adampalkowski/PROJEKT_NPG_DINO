@@ -41,7 +41,7 @@ def gameplay():
 
                 if event.type == pygame.KEYDOWN:
                      if event.key == pygame.K_SPACE:
-                            if gamer_Dino.rect.bottom == int(0.98 * height_screen):
+                          if gamer_Dino.rect.bottom == int(0.98 * height_screen):
                                 gamer_Dino.jumping = True
                                 if pygame.mixer.get_init() != None:
                                    #todo dodaj dzwiek skoku
