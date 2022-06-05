@@ -35,7 +35,7 @@ def gameplay():
         else:
 
             for event in pygame.event.get():
-                if event.type == pygame.QUIT:
+            s    if event.type == pygame.QUIT:
                     g_exit = True
                     g_Over = False
 
