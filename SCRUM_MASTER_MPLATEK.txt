@@ -1,0 +1,9 @@
+Scrum Master Mateusz Płatek 02.06.2022 - 08.06.2022
+
+Podczas tego okresu zostały podjęte następujące działania:
+
+- utworzenie klasy SCOREBOARD
+- zakomentowanie i dalsa edycja dodanych już klas
+- utworzenie klasy DINO 
+- dalsza edycja oraz komentowanie gameplayFILE
+- spotkanie deweloperskie nr 4
