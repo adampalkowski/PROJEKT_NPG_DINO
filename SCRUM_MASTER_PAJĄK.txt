@@ -1,0 +1,12 @@
+SCRUM MASTER Szymon Pająk 16.05.2022-01.06.2022
+
+Podczas tego okresu zostały podjęte następujące działania:
+
+-utworzenie klasy KAKTUS
+-utworzenie klasy CLOUD
+-dodanie nowych zadań na trello
+-utworzenie klasy BIRD
+-dodanie klasy GROUND
+- zupdatowanie funkcji dzwięk
+-przypomnienie o dodawniu commitów 
+-zupdatowanie głownej pętli gry o licznik FPS i updatowanie maksymalnego wyniku
