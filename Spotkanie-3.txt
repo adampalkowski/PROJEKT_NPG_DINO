@@ -1,0 +1,10 @@
+Spotkanie deweloperskie 01.06.2022
+
+Pomimo krótkiego deadline'u wszyscy wywiązali się z powierzonych zadań. Lista plików naszego projektu została bardzo wydłużona. Projekt został wzbogacony o kod tworzący tło, przeszkody oraz pierwsze ruchowe elementy. Z powodu zbliżającego się terminu oddania całego projektu nakierowaliśmy nasze 3 spotkanie deweloperskie w kierunku bardziej praktycznym. Po wstępnej organizacji pracy, kazdy zostal przydzielony do swoich zadań i każdy przystąpił do pracy na samym spotkaniu. Zaskutkowało to bardzie owocną pracą dzięki szybszej i wygodniejszej kominikacji w realnym świecie. Czlonkowie grupy wykonał następujące zadania:
+
+Szymon Pająk - scrum master, implementacja dźwięków oraz kolejnych elementów gry
+Adam Pałkowski - refaktoryzacja otrzymanych odcinków kodu aby ze sobą współdziałały
+Mateusz Płatek - aktualizowanie tablicy kanbanowej trello
+Filip Pasternak, Jakub Pinas - tworzenie dalszej dokumentacji projektu
+
+Deadline wykonania zadań został ustalony na 08.06.2022 - jednocześnie będąc teminem następnego spotkania deweloperskiego
