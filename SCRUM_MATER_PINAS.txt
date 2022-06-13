@@ -1,0 +1,10 @@
+
+Scrum Master od 31.03.2022 - 13.04.2022. JAKUB PINAS
+
+W czasie trawnia tego okresu dokonane zostały następujące zmiany:
+
+- stworzenie przestrzeni roboczej w Trello
+- dodanie członków grupy do projektu na Githubie oraz na Trello
+- wybór języka programowania na PYTHON
+- stworzenie repozytorium Github PROJEKT_DINO_NPG
+- wybór tematu projektu 

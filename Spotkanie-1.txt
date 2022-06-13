@@ -1,0 +1,9 @@
+Sprawozdanie z spotkania deweloperskiego z dnia 20.04.2022
+
+W godzinach popołudniowych odbyło się nasze pierwsze spotkanie deweweloperskie na którym zostały ustalone najważniejsze aspekty dotyczące naszego projektu.Najpierw dokonaliśmy wstępnego wyboru tematu projektu, następnie podzielono zadania między członków grupy:
+Mateusz Płatek - organizacja pracy, zarządzanie tablicą kanbanową i githubem
+Adam Pałkowski, Szymon Pająk - dobór języka programowania do projektu oraz budowa wstępnego szkieletu gry
+Filip Pasternak, Jakub Pinas - dokumentacja, sprawozdania
+
+Deadline wykonania tych zadań został wyznaczony na 21.05.2022
+Termin następnego spotkania deweloperskiego został wynaczony na 28.05.2022 godz. 16.
