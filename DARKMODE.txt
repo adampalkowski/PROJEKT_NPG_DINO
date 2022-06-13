@@ -1,0 +1,6 @@
+funkcja powinna zmieniąć tryb gry na ciemny:
+
+priorytet poyższego zadania został ustawiony na NISKI dnia 25.05.2022. przez Szymona Pająka
+
+funkcja ta powinna dawać możliwość wyboru trybu ciemnego i jasnego w grze.
+Zmiana polega na zmienieniu obrazow pokazywanych w grze na przeciwne kolory.

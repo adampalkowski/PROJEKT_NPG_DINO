@@ -1,0 +1,26 @@
+*Menu główne powinno zawierać następujące funkcjonalności:
+
+-możliwość wyświetlenia poprzedniego wyniku
+
+przydatna funkcją jest zapisane poprzedniego wyniku w celu porównania z kolejnym uzyskanym wynikiem
+
+-możliwość wyświeletnia globalnego maksymalnego wyniku
+
+w grze będzie możliwośc zobaczenia i porównania maksymalnego uzyskanego wyniku
+
+-możliwość wyboru prędkości
+
+w grze bedzie można wybrać różne prędkości które będą utrudniać lub ułatwiać gre
+
+-możliwość wyboru ilości przeszkód
+
+w grze będzie można wybrać ilość różnorodnych przeszkód na które bedzie mogł sie skuć dino
+. Mamy do wyboru kaktusa, pterodaktyl, kamien, krzak, metoryt
+
+-możliwość wyboru typu przeszkód
+
+w grze bedzie można wybrać duże, małe jak i średnie wielkości przeszkód w celu utrudnienia gru=y
+
+-możliwość rozpoczęcia gry
+
+gre rozpoczynamy poprzez kliknięcie spacji
