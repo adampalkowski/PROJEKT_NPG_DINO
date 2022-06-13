@@ -1,0 +1,10 @@
+Scrum Master Adam Pałkowski
+
+Podczas tego okresu zostały podjęte następujące działania:
+
+- funckja obsługująca załadowanie obrazów
+
+- funckja obsługująca dzwięk
+- funckja obsługująca koniec gry
+- stworzenie funckji sprite load sheet
+- dodanie głownej pętli gry obsługującej przyciski na klawiaturze
