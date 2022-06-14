@@ -37,6 +37,7 @@ class Dino():
 
     # funkcja odpowiadajaca za nie wykroczenie dino poza wyznaczone pole
     def checkbounds(self):
+        
         if self.rect.bottom > int(0.98 * height_screen):
             self.rect.bottom = int(0.98 * height_screen)
             self.jumping = False
@@ -49,17 +50,22 @@ class Dino():
 
         if self.jumping:
             self.index = 0
+            
         elif self.blinking:
+            
             if self.index == 0:
+                
                 if self.counter % 400 == 399:
                     self.index = (self.index + 1) % 2
             else:
                 if self.counter % 20 == 19:
                     self.index = (self.index + 1) % 2
         elif self.ducking:
+            
             if self.counter % 5 == 0:
                 self.index = (self.index + 1) % 2
         else:
+            
             if self.counter % 5 == 0:
                 self.index = (self.index + 1) % 2 + 2
 
@@ -78,8 +84,13 @@ class Dino():
 
         if not self.dead and self.counter % 7 == 6 and self.blinking == False:
             self.score += 1
+            
             if self.score % 100 == 0 and self.score != 0:
+                
                 if pygame.mixer.get_init() != None:
+                    
                     checkPoint_sound.play()
 
         self.counter = (self.counter + 1)
+
+    #koiec klasy
