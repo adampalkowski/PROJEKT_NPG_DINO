@@ -2,6 +2,8 @@
 
 class Scoreboard():
     
+    #inicjalizacja dancyh klasowych
+    
     def __init__(self,x=-1,y=-1):
 
         self.score = 0
@@ -18,10 +20,11 @@ class Scoreboard():
         else:
             self.rect.top = y
 
+          
     def draw(self):
 
         screen_layout_display.blit(self.image, self.rect)
-
+    
     def update(self,score):
 
         score_digits = extractDigits(score)
