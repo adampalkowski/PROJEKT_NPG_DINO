@@ -1,0 +1,9 @@
+Scrum Master Filip Pasternak 08.06.2022 - 14.06.2022
+
+Podczas tego okresu zostały zrealizowane następujące zadania:
+
+-merge branchów na GitHubie
+-utworzenie funkcji obsługującej ekran wstępny
+-aktualizacja kodu klasy Dino
+-Doadnie backlogów punktacja, menu, dino, darkmode
+
