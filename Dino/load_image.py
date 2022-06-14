@@ -17,13 +17,19 @@ img = img.convert()
 # przekłądanie danyc modeli na obraz
 
 if colorkey is not None:
+  
   if colorkey == -1:
+    
     colorkey = img.get_at((0, 0))
+    
     img.set_colorkey(colorkey, RLEACCEL)
-
+    
     if sx != -1 or sy != -1:
+      
         img = pygame.transform.scale(img, (sx, sy))
+        
 
 return (img, img.get_rect())
+
 
 #koniec fuckcji
