@@ -138,8 +138,7 @@ class Dino():
         self.dead = False
         
         # musimy wiedziec czy dino jest w skoku
-        self.jumping = False
-        
+        self.jumping = True
         # musimy wiedziec czy dino kuca
         self.ducking = False
         self.blinking = False
