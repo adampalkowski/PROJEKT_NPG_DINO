@@ -15,9 +15,9 @@ img = pygame.image.load(fullname)
 img = img.convert()
 
 if colorkey is not None:
-if colorkey == -1:
-colorkey = img.get_at((0, 0))
-img.set_colorkey(colorkey, RLEACCEL)
+  if colorkey == -1:
+    colorkey = img.get_at((0, 0))
+    img.set_colorkey(colorkey, RLEACCEL)
 
     if sx != -1 or sy != -1:
         img = pygame.transform.scale(img, (sx, sy))
