@@ -1,3 +1,5 @@
+#clasa zajmująca się wypiwywaniem wyniku gracza
+
 class Scoreboard():
     
     def __init__(self,x=-1,y=-1):
