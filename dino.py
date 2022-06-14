@@ -209,6 +209,7 @@ class Cactus(pygame.sprite.Sprite):
         self.imgs, self.rect = load_sprite_sheet('cactus-small.png', 3, 1, sx, sy, -1)
         self.rect.bottom = int(0.98 * height_screen)
         self.rect.left = width_screen + self.rect.width
+        
         # losowanie typu kaktusa, który się pojawi
         self.image = self.imgs[random.randrange(0, 3)]
         self.movement = [-1*speed,0]
