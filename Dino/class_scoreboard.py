@@ -31,7 +31,8 @@ class Scoreboard():
             self.rect.top = y
             
 
-    # wypisywanie wyniku na ekranie
+    # wypisywanie wyniku na ekranie#
+    
     
     def draw(self):
 
