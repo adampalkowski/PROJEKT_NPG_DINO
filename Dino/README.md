@@ -8,4 +8,5 @@ pliki wykorzystywane w programie:
 - otoczenie
 - dźwięk
 - menu
-/
+-----------------------
+
