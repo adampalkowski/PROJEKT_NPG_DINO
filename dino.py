@@ -124,7 +124,9 @@ def extractDigits(num):
 class Dino():
     def __init__(self, sx=-1, sy=-1):
         self.imgs, self.rect = load_sprite_sheet('dino.png', 5, 1, sx, sy, -1)
+        
         self.imgs1, self.rect1 = load_sprite_sheet('dino_ducking.png', 2, 1, 59, sy, -1)
+        
         self.rect.bottom = int(0.98 * height_screen)
         self.rect.left = width_screen / 15
         self.image = self.imgs[0]
