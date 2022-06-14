@@ -533,8 +533,8 @@ def gameplay():
                 # kontrola naciśniętych przycisków
                 for event in pygame.event.get():
                     if event.type == pygame.QUIT:
-                        g_exit = True
-                        g_Over = False
+                        g_exit = False
+                        g_Over = True
                     if event.type == pygame.KEYDOWN:
                         if event.key == pygame.K_ESCAPE:
                             g_exit = True
