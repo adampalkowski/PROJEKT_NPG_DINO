@@ -11,3 +11,4 @@ Projekt DINO by Adam Pałkowski, Mateusz Płatek, Szymon Pająk, Filip Pasternak
 - backlog
 - kod
 - folder resources odpowiada za przechowywanie obrazów oraz efektów dzwiękowych gry
+-w celu uruchomienia gry potrzebny jest plik dino.py oraz folder resources
