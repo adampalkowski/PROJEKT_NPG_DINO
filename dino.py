@@ -263,6 +263,7 @@ class Ground():
     def __init__(self,speed=-5):
         self.image,self.rect = load_image('ground.png',-1,-1,-1)
         self.image1,self.rect1 = load_image('ground.png',-1,-1,-1)
+        
         # wybór wysokości na której jest grunt (tzw. poziom zero po którym biegnie Dino)
         self.rect.bottom = height_screen
         self.rect1.bottom = height_screen
