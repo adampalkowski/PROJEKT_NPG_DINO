@@ -559,6 +559,8 @@ def gameplay():
     pygame.quit()
     quit()
 
+    
+#funkcja main odpowiedzialna za działanie gry w pycharmie
 def main():
     isGameQuit = introduction_screen()
     if not isGameQuit:
