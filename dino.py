@@ -230,6 +230,7 @@ class birds(pygame.sprite.Sprite):
     def __init__(self, speed=5, sx=-1, sy=-1):
         pygame.sprite.Sprite.__init__(self,self.containers)
         self.imgs, self.rect = load_sprite_sheet('birds.png', 2, 1, sx, sy, -1)
+        
         # trzy wysokości na jakiej mogą latać ptaki
         self.birds_height = [height_screen * 0.82, height_screen * 0.75, height_screen * 0.60]
         # losowanie wysokości na której leci ptak
