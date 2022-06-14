@@ -19,8 +19,10 @@ class Scoreboard():
             self.rect.top = height_screen * 0.1
         else:
             self.rect.top = y
+            
 
-          
+    # wypisywanie wyniku na ekranie
+    
     def draw(self):
 
         screen_layout_display.blit(self.image, self.rect)
