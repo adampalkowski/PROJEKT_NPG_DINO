@@ -1,0 +1,14 @@
+Spotkanie deweloperskie 13.06.2022
+
+Pomimo małej ilości czasu od poprzedniego spotkania i rozdzielenia nowych zadań, każdy z naszej grupy świetnie wywiązał się ze swojej pracy. Projekt Dino został rozszerzony o następujące rzeczy:
+- Został dodany kod odpowiedzialny za tabelę wyników
+- Rozszerzono dokumentacje o nowe backlogi
+- Projekt został zmergowany na jedną gałąź i uporządkowany w foldery
+- Został zaktualizowany kod obsługujący główną postać
+- Doadny został ekran startowy
+
+Na ostatni dzień pracy wyznaczono zadania:
+Filip Pasternak, Mateusz Płatek - Uporządkowanie i sprawdzenie dokumentacji
+Szymon Pająk, Adam Pałkowski, Jakub Pinas - ostatnie testy i aktualizacje kodu
+
+Deadline został wyznaczony na 14.06.2022 godz. 20 - termin oddania głównego sprawozdania
