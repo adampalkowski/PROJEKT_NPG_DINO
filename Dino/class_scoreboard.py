@@ -1,4 +1,4 @@
-#clasa zajmująca się wypiwywaniem wyniku gracza
+#clasa zajmująca się wypiwywaniem wyniku gracza#
 
 class Scoreboard():
     
