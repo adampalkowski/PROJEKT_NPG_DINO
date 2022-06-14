@@ -8,6 +8,9 @@ sy=-1,
 colorkey=None,
 ):
 
+#Wczytywanie danych modeli  
+
 fullname = os.path.join('resources', name)
 img = pygame.image.load(fullname)
 img = img.convert()
+
