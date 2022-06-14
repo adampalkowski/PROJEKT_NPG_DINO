@@ -24,6 +24,7 @@ class Scoreboard():
         if y == -1:
             
             self.rect.top = height_screen * 0.1    
+            
         else:
             
             self.rect.top = y
