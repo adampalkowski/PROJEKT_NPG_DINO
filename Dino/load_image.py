@@ -14,6 +14,8 @@ fullname = os.path.join('resources', name)
 img = pygame.image.load(fullname)
 img = img.convert()
 
+# przekłądanie danyc modeli na obraz
+
 if colorkey is not None:
   if colorkey == -1:
     colorkey = img.get_at((0, 0))
@@ -23,3 +25,5 @@ if colorkey is not None:
         img = pygame.transform.scale(img, (sx, sy))
 
 return (img, img.get_rect())
+
+#koniec fuckcji
