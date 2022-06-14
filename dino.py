@@ -128,10 +128,15 @@ class Dino():
         self.imgs1, self.rect1 = load_sprite_sheet('dino_ducking.png', 2, 1, 59, sy, -1)
         
         self.rect.bottom = int(0.98 * height_screen)
+        
         self.rect.left = width_screen / 15
+        
         self.image = self.imgs[0]
+        
         self.index = 0
+        
         self.counter = 0
+        
         self.score = 0
         # musimy wiedziec czy dino jest w skoku
         self.jumping = False
