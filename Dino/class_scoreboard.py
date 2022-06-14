@@ -27,6 +27,9 @@ class Scoreboard():
 
         screen_layout_display.blit(self.image, self.rect)
     
+    
+    #uaktalnianie wyniku na bieżąco podczas rozgrywki
+        
     def update(self,score):
 
         score_digits = extractDigits(score)
