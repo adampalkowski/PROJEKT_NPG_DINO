@@ -142,8 +142,10 @@ class Dino():
         
         # musimy wiedziec czy dino żyje
         self.dead = False
+        
         # musimy wiedziec czy dino jest w skoku
         self.jumping = False
+        
         # musimy wiedziec czy dino kuca
         self.ducking = False
         self.blinking = False
