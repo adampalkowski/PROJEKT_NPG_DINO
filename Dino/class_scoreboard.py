@@ -15,7 +15,6 @@ class Scoreboard():
         self.rect = self.image.get_rect()
 
         if x == -1:
-            
             self.rect.left = width_screen * 0.89
             
         else:
