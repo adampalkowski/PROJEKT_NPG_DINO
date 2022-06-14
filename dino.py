@@ -351,7 +351,6 @@ def introduction_screen():
     logo,l_rect = load_image('logo.png',300,140,-1)
     l_rect.centerx = width_screen * 0.6
     l_rect.centery = height_screen * 0.6
-
     # pętla czekająca na rozpoczęcie gry
     while not starting_game:
         # przypadek gdy nie można załadować surface
