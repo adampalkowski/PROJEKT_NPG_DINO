@@ -535,7 +535,8 @@ def gameplay():
                     if event.type == pygame.QUIT:
                         #musi być True
                         g_exit = True
-                        g_Over = True
+                        #musi być False
+                        g_Over = False
                     if event.type == pygame.KEYDOWN:
                         if event.key == pygame.K_ESCAPE:
                             g_exit = True
