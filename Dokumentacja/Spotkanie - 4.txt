@@ -2,16 +2,22 @@ Spotkanie deweloperskie 08.06.2022
 
 Spotkanie odbyło się tydzień po poprzednim co dało mało czasu na realizację kolejnych zadań ale mimo to każdy wywiązał się ze swoich zadań.
 Udało nam się zrobić następujące rzeczy:
+
 - utworzenie klasy SCOREBOARD
 - zakomentowanie i dalsa edycja dodanych już klas
 - utworzenie klasy DINO 
 - dalsza edycja oraz komentowanie gameplayFILE
 
+
 Na spotkaniu przydzieliliśmy nowe zadania na najbliższy tydzień:
 
 Szymon Pająk - dodawanie kolejnych klas elementów gry i rozszerzanie funkcjonalności wcześniej dodanych klas
+
 Adam Pałkowski - złączenie wszystkich plików w całość
+
 Mateusz Płatek - aktualizowanie tablicy w trello oraz doskonalenie oraz zakomentowanie napisanych przez siebie funkcji
+
 Filip Pasternak, Jakub Pinas - tworzenie dalszej dokumentacji projektu oraz dodawanie pozostałych fragmentów kodu
+
 
 Deadline wykonania zadań został ustalony na 13.06.2022 - jednocześnie będąc teminem następnego spotkania deweloperskiego
