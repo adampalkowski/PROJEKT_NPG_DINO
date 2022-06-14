@@ -12,3 +12,4 @@ Projekt DINO by Adam Pałkowski, Mateusz Płatek, Szymon Pająk, Filip Pasternak
 - kod
 - folder resources odpowiada za przechowywanie obrazów oraz efektów dzwiękowych gry
 -w celu uruchomienia gry potrzebny jest plik dino.py oraz folder resources
+-folder dino zawiera poszczególne funkcje używane w pliku dino.py
