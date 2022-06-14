@@ -39,3 +39,5 @@ class Scoreboard():
             self.image.blit(self.scre_img[s], self.screrect)
             self.screrect.left += self.screrect.width
             self.screrect.left = 0
+            
+    #koniec klasy
