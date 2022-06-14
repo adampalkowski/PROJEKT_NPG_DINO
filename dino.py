@@ -9,15 +9,10 @@ from pygame import *
 pygame.init()
 
 screen_size_display = (width_screen, height_screen) = (600, 150)
-
 FPS = 60
-
 gravity = 0.6
-
 black_color = (0,0,0)
-
 white_color = (255,255,255)
-
 bg_color = (235, 235, 235)
 highest_scores = 0
 
