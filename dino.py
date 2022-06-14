@@ -19,7 +19,6 @@ black_color = (0,0,0)
 white_color = (255,255,255)
 
 bg_color = (235, 235, 235)
-
 highest_scores = 0
 
 screen_layout_display = pygame.display.set_mode(screen_size_display)
